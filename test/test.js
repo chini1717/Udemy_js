@@ -29,6 +29,17 @@ let myString = 'This is a chain of characters :D';
 console.log(myString);
 console.log('myString lenght: ' + myString.length);
 
+
+console.log ('My suma de a + 3 = '  + (5+3))
+//-----------concatenacion-----------
+//-----------concadenei-------------
+
+// es cuando se unen los textos, y forman un solo texto. 
+// it is when the texts are joined, and they form a single text. 
+
+console.log ('My Subtraction of 5 - 2 = '  + (5-2))
+
+
 //-----------------------------------------------------------------------------
 //----------------------------------Undefined----------------------------------
 //----------------------------------Ondefaind----------------------------------
@@ -41,5 +52,6 @@ console.log('----------------------------------Undefined------------------------
 
 let myUndefined;
 console.log(myUndefined);
+
 
 
