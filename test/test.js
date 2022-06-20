@@ -54,4 +54,11 @@ let myUndefined;
 console.log(myUndefined);
 
 
+//--------------------como ingresar a la consola del navegador----------------
+//--------------------how to enter the browser console------------------------
+
+// entrar al navegdor
+
+
+
 
