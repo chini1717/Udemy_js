@@ -57,8 +57,26 @@ console.log(myUndefined);
 //--------------------como ingresar a la consola del navegador----------------
 //--------------------how to enter the browser console------------------------
 
-// entrar al navegdor
+// entrar al navegdor ir a los puntos o rayas y buscar consola o terminal 
+// enter the browser go to the dots or dashes and search for console or terminal 
 
+let mybrowser = 'naranja';
+console.log(mybrowser);
 
+// ------------------tipo de datos de una variable------------------------
+//-------------------date type of a variable------------------------------
+
+let canasta = 'manzana'; 
+console.log(canasta); 
+
+// variable---- valor de la varable.sting 
+
+//--------------tipos primitivos--------------------
+//-------------types primitives---------------------
+
+// es una informacion que no es un objeto y son inmutables
+// it is information that is not an object and are immutable
+
+// BOOLEAN: true
 
 
